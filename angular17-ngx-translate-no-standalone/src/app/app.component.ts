@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular17-ngx-translate-no-standalone';
+
+  constructor(){}
 }
