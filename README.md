@@ -1,0 +1,1 @@
+# angular17-ngx-translate-no-standalone
